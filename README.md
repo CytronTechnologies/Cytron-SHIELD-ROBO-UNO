@@ -18,10 +18,8 @@ Refer to the Robo Uno Shield [Getting Started](https://my.cytron.io/tutorial/get
 
 ## Resources 
 If you want a guidance on how to use the code for Robo Uno Shield, here some tutorials you can follow:
-* [Real-Time Multitasking on Maker Pi Pico Using pyRTOS](https://cytron.io/tutorial/real-time-multitasking-on-maker-pi-pico-using-pyrtos)  
-* [Building Line Following Robot Using Maker Pi Pico, Maker Drive and Maker Line](https://cytron.io/tutorial/building-line-following-robot-using-maker-pi-pico-maker-drive-and-maker-line)  
-* [Play MP3 File on Maker Pi Pico Using Circuitpython](https://cytron.io/tutorial/play-mp3-file-on-maker-pi-pico-using-circuitpython)  
-* [Read and Display Environment Sensor Data Using Raspberry Pi Pico and Circuitpython](https://cytron.io/tutorial/read-and-display-environment-sensor-data-using-raspberry-pi-pico-and-circuitpython)  
+* 
+* 
   
 For more information on the Robo Uno Shield, check out other resources here:
 * [Cytron Product Resources](https://my.cytron.io/)  
